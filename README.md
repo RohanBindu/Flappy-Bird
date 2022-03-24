@@ -1,4 +1,4 @@
-# Flappy-Bird-
+# Flappy-Bird
 
 The Best Flappy Bird Game Out!
 
